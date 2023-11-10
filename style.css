@@ -287,7 +287,8 @@ article p {
   }
 
   .home-products-grid a {
-    padding: 1.5rem;
+    padding: 1rem;
+    width: auto;
   }
 
   .contatti-grid {
